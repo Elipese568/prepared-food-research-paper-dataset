@@ -1,0 +1,3 @@
+[submodule "ImgOcr"]
+	path = ImgOcr
+	url = https://github.com/Elipese568/ImgOcr.git
